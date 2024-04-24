@@ -16,3 +16,7 @@ Marketing Initiatives: Guide marketing strategies based on data-driven customer 
 Innovative Services: Identify opportunities for introducing innovative services to enhance user experience.
 
 By exploring and analyzing the Airbnb dataset, this project aims to extract actionable insights that can drive improvements across various aspects of the Airbnb platform, ultimately enhancing the overall user experience and business operations.
+
+Most Popular words on Airbnb New York
+![image](https://github.com/atul1994s/airbnb/assets/76198727/ed73ee26-258c-4da1-9bc0-834b32801fee)
+
